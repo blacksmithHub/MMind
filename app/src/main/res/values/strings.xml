@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string-array name="object">
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="stage">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="diff">
+        <item>Same</item>
+        <item>Different</item>
+        <item>Random</item>
+    </string-array>
+</resources>
